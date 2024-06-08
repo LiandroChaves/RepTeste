@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RepTeste/static/css/main.d21d0f1d.css",
+    "main.js": "/RepTeste/static/js/main.67ea69bf.js",
+    "static/js/453.639fea5a.chunk.js": "/RepTeste/static/js/453.639fea5a.chunk.js",
+    "static/media/inst.png": "/RepTeste/static/media/inst.d93ed58870aba14ea92b.png",
+    "static/media/_rw_600.gif": "/RepTeste/static/media/24e71a4a26b5d319d6ac79ee_rw_600.f31e83aa0aa9876fc47c.gif",
+    "static/media/Flutter.png": "/RepTeste/static/media/Flutter.2e81fb5af89a623b6f61.png",
+    "static/media/React.png": "/RepTeste/static/media/React.b60156aa6325c1bfec34.png",
+    "static/media/wpp.png": "/RepTeste/static/media/wpp.e0cc8f6e621e7b9e4580.png",
+    "static/media/lupa.png": "/RepTeste/static/media/lupa.d3086ad32de252e191aa.png",
+    "static/media/MySQL.png": "/RepTeste/static/media/MySQL.09060054f7de873ba7d6.png",
+    "service-worker.js": "/RepTeste/service-worker.js",
+    "static/media/tableau.png": "/RepTeste/static/media/tableau.5e4f1c420c9da2a6173b.png",
+    "index.html": "/RepTeste/index.html",
+    "main.d21d0f1d.css.map": "/RepTeste/static/css/main.d21d0f1d.css.map",
+    "main.67ea69bf.js.map": "/RepTeste/static/js/main.67ea69bf.js.map",
+    "453.639fea5a.chunk.js.map": "/RepTeste/static/js/453.639fea5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21d0f1d.css",
+    "static/js/main.67ea69bf.js"
+  ]
+}
